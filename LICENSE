@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026 mimitrix123
+Copyright (c) 2026 Mamashri Gupta
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,23 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+DATASET NOTICE
+
+The WiFi Signal Quality dataset containing 100 records is used in this project to develop and evaluate a machine learning model for predicting WiFi signal quality.
+
+The dataset may contain features such as signal strength (RSSI), noise level, signal-to-noise ratio (SNR), channel frequency, and other network-related parameters, depending on the dataset used in this project.
+
+Dataset Information:
+
+Project: WiFi Signal Quality Prediction
+
+Number of records: 100
+
+Purpose: Machine learning-based WiFi signal quality classification or prediction.
+
+Dataset source: Specify the original source if the dataset was obtained from an external repository. If the 100 records were generated or collected specifically for this project, state that instead.
+
+The dataset is not included in this repository unless explicitly provided. See data/README.md for dataset details, download instructions, and attribution information, if applicable.
+
+If the dataset is derived from an external source, the original dataset license and attribution requirements must also be followed.
